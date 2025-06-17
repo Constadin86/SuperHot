@@ -1,0 +1,8 @@
+body {
+     background-image: url('https://luadist.org/wp-content/uploads/2024/01/SUPERHOT-Game.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center;}
+     a {
+          border: 2px solid rgb(255, 0, 0);
+border-radius: 15px;
+padding: 5px;
+text-decoration:red;
+}
